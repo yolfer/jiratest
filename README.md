@@ -1,4 +1,4 @@
-jiratest2
+jiratest
 =========
 
 testing jira/github integration
