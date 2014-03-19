@@ -3,4 +3,4 @@ jiratest2
 
 testing jira/github integration
 
-This is going to be fairly awesome!
+This is going to be REALLY awesome!
